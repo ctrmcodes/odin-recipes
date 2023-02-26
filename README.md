@@ -15,5 +15,8 @@ The purpose of this project was to get practice with:
     -making, moving, and deleting directories and files
     -working with a local repository and a remote repo on GitHub using an SSH key 
     -publishing the project using GitHub pages 
+    -writing concise git commit messages and committing after fewer changes for better log history 
+
+Thanks for taking a look!
 
 
