@@ -1,0 +1,95 @@
+* {
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+    color: coral;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+p, h1, h3, h4, ul, ol, li {
+    margin-left: 25px;
+    margin-right: 15px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    text-align: left;
+    font-size: 16px;
+}
+
+h2 {
+    background-color: rgba(78, 52, 5, 0.817);
+    width: 100%;
+    margin-right: 0%;
+    padding-right: 0%;
+}
+body {
+    height: 90%;
+}
+
+a:link {
+    color: paleturquoise;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(240, 102, 4);
+}
+
+a:active{
+    color: rgb(189, 4, 4);
+}
+
+li a {
+    color: coral;
+}
+
+.heading {
+    font-weight: 800;
+    font-size: 20px;
+    margin-right: 20px;
+    text-shadow: 3px 5px 5px rgba(214, 105, 3, 0.837)
+}
+
+img {
+    width: 400px;
+    height: auto;
+    margin-left: 30%;
+    box-shadow: 7px 8px 14px rgba(214, 105, 3, 0.837);
+}
+.recipe {
+    text-align: right;
+    text-decoration: underline 1px;
+    font-size: 50px;
+    text-shadow: 5px 6px 8px rgba(214, 105, 3, 0.837);
+}
+
+li {
+    text-decoration: none;
+}
+
+.ingredients {
+    list-style-type: circle;
+    width: 100%;
+}
+
+.steps {
+    margin-left: 20px;
+    list-style-type: georgian;
+    width: 100%;
+}
+
+footer, footer p {
+   background-color: rgb(78, 52, 5);
+   height: 10%;
+   width: 100%;
+   bottom: 0px;
+   margin-right: 10px;
+   margin-bottom: 0px;
+   text-align: right;
+   text-shadow: 3px 5px 5px rgba(214, 105, 3, 0.837);
+}
